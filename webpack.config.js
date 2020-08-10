@@ -7,7 +7,6 @@ module.exports = {
     filename: "bundle.js",
   },
   devServer: {
-    // where to serve the content from
     contentBase: "./dist",
   },
   module: {
